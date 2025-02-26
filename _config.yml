@@ -4,10 +4,10 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 github:
-  zip_url: https://github.com/maxensas/xiletrade/releases/download/1.10.5/Xiletrade_win-x64.7z
-  repository_url: https://github.com/maxensas/xiletrade
-  latest_url: https://github.com/maxensas/xiletrade/releases/latest/
   repository_name: Xiletrade
-  owner_url: https://github.com/maxensas/
   owner_name: maxensas
   is_project_page: true
+  owner_url: https://github.com/maxensas/
+  repository_url: https://github.com/maxensas/xiletrade
+  latest_url: https://github.com/maxensas/xiletrade/releases/latest/
+  zip_url: https://github.com/maxensas/xiletrade/releases/download/1.10.5/Xiletrade_win-x64.7z
