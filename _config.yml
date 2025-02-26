@@ -11,3 +11,6 @@ github:
   repository_url: https://github.com/maxensas/xiletrade
   latest_url: https://github.com/maxensas/xiletrade/releases/latest/
   zip_url: https://github.com/maxensas/xiletrade/releases/download/1.10.5/Xiletrade_win-x64.7z
+  download_url: https://github.com/maxensas/xiletrade/releases/download/
+  archive_file: Xiletrade_win-x64.7z
+  latest_version: 1.10.6
