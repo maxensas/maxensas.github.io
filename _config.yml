@@ -1,5 +1,7 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
+title: Xiletrade
+description: Price checker and helper tool for Path Of Exile games
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+github:
+  zip_url: https://github.com/maxensas/xiletrade/releases/download/1.10.5/Xiletrade_win-x64.7z
