@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Xiletrade
 ---
 
 ## Welcome to another page
