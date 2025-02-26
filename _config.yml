@@ -6,3 +6,4 @@ theme: jekyll-theme-cayman
 github:
   zip_url: https://github.com/maxensas/xiletrade/releases/download/1.10.5/Xiletrade_win-x64.7z
   repository_url: https://github.com/maxensas/xiletrade
+  is_project_page: true
